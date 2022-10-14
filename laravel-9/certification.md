@@ -21,7 +21,7 @@
 - Registering Commands
 - Executing Commands
 
-### Cachine
+### Caching
 - Drivers / Configuration
 - Storing Items
 - Retrieving Items
