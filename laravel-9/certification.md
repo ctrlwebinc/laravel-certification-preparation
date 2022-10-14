@@ -12,6 +12,7 @@
 - [Service Providers](https://laravel.com/docs/9.x/providers#main-content)
 - [Facades](https://laravel.com/docs/9.x/facades#main-content)
 - [HTTP Verbs](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods)
+- [PSR-11](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-11-container.md)
 
 ### Artisan Console
 
