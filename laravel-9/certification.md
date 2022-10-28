@@ -16,10 +16,11 @@
 
 ### Artisan Console
 
-- Generating Commands
-- Command I/O
-- Registering Commands
-- Executing Commands
+- [Generating Commands](https://laravel.com/docs/9.x/artisan#writing-commands)
+- [Command I/O](https://laravel.com/docs/9.x/artisan#command-io)
+- [Registering Commands](https://laravel.com/docs/9.x/artisan#registering-commands)
+- [Programmatically Executing Commands](https://laravel.com/docs/9.x/artisan#programmatically-executing-commands)
+- [Laravel Zero](https://laravel-zero.com/docs/introduction)
 
 ### Caching
 - Drivers / Configuration
