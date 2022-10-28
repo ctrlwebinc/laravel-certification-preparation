@@ -21,7 +21,6 @@
 - [Registering Commands](https://laravel.com/docs/9.x/artisan#registering-commands)
 - [Programmatically Executing Commands](https://laravel.com/docs/9.x/artisan#programmatically-executing-commands)
 - [Tinker](https://laravel.com/docs/9.x/artisan#tinker)
-- [Laravel Zero](https://laravel-zero.com/docs/introduction)
 
 ### Caching
 - Drivers / Configuration
