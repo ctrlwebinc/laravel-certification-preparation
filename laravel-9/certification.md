@@ -23,8 +23,9 @@
 - [Tinker](https://laravel.com/docs/9.x/artisan#tinker)
 
 ### Caching
-- Drivers / Configuration
-- Storing Items
-- Retrieving Items
-- Cache Tags
-- Creating Custom Drivers
+- [Drivers / Configuration](https://laravel.com/docs/9.x/cache#configuration)
+- [Storing Items](https://laravel.com/docs/9.x/cache#storing-items-in-the-cache)
+- [Retrieving Items](https://laravel.com/docs/9.x/cache#retrieving-items-from-the-cache)
+- [Removing Items](https://laravel.com/docs/9.x/cache#removing-items-from-the-cache)
+- [Cache Tags](https://laravel.com/docs/9.x/cache#cache-tags)
+- [Creating Custom Drivers](https://laravel.com/docs/9.x/cache#adding-custom-cache-drivers)
