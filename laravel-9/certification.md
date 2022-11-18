@@ -29,3 +29,19 @@
 - [Removing Items](https://laravel.com/docs/9.x/cache#removing-items-from-the-cache)
 - [Cache Tags](https://laravel.com/docs/9.x/cache#cache-tags)
 - [Creating Custom Drivers](https://laravel.com/docs/9.x/cache#adding-custom-cache-drivers)
+
+### Collections
+- [Creating / Extending](aravel.com/docs/9.x/collections#creating-collections)
+- [Collection Methods](https://laravel.com/docs/9.x/collections#available-methods)
+- [Higher-order Messages](https://laravel.com/docs/9.x/collections#higher-order-messages)
+- [Lazy Collections](https://laravel.com/docs/9.x/collections#lazy-collections)
+
+### Controllers
+- Defining Controllers
+- Controller Namespacing
+- Single Action Controllers
+- Middleware
+- Resource Controllers
+- Dependency Injection
+- Route Caching
+
