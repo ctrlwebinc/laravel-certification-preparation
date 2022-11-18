@@ -31,7 +31,7 @@
 - [Creating Custom Drivers](https://laravel.com/docs/9.x/cache#adding-custom-cache-drivers)
 
 ### Collections
-- [Creating / Extending](aravel.com/docs/9.x/collections#creating-collections)
+- [Creating / Extending](https://laravel.com/docs/9.x/collections#creating-collections)
 - [Collection Methods](https://laravel.com/docs/9.x/collections#available-methods)
 - [Higher-order Messages](https://laravel.com/docs/9.x/collections#higher-order-messages)
 - [Lazy Collections](https://laravel.com/docs/9.x/collections#lazy-collections)
