@@ -37,11 +37,12 @@
 - [Lazy Collections](https://laravel.com/docs/9.x/collections#lazy-collections)
 
 ### Controllers
-- Defining Controllers
-- Controller Namespacing
-- Single Action Controllers
-- Middleware
-- Resource Controllers
-- Dependency Injection
-- Route Caching
+- [Defining Controllers](https://laravel.com/docs/9.x/controllers#writing-controllers)
+- [Controller Namespacing]()
+- [Single Action Controllers](https://laravel.com/docs/9.x/controllers#single-action-controllers)
+- [Middleware](https://laravel.com/docs/9.x/controllers#controller-middleware)
+- [Resource Controllers](https://laravel.com/docs/9.x/controllers#resource-controllers)
+- [Nested Resources](https://laravel.com/docs/9.x/controllers#restful-nested-resources)
+- [Dependency Injection](https://laravel.com/docs/9.x/controllers#dependency-injection-and-controllers)
+- [Route Caching](https://laravel.com/docs/9.x/routing#route-caching)
 
