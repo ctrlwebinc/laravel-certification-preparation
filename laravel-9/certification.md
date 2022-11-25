@@ -46,3 +46,10 @@
 - [Dependency Injection](https://laravel.com/docs/9.x/controllers#dependency-injection-and-controllers)
 - [Route Caching](https://laravel.com/docs/9.x/routing#route-caching)
 
+### Database
+- [General](https://laravel.com/docs/9.x/database)
+- [Query Builder](https://laravel.com/docs/9.x/queries)
+- [Pagination](https://laravel.com/docs/9.x/pagination)
+- [Migrations](https://laravel.com/docs/9.x/migrations)
+- [Seeding](https://laravel.com/docs/9.x/seeding)
+- [Redis](https://laravel.com/docs/9.x/redis)
