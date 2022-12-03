@@ -53,3 +53,13 @@
 - [Migrations](https://laravel.com/docs/9.x/migrations)
 - [Seeding](https://laravel.com/docs/9.x/seeding)
 - [Redis](https://laravel.com/docs/9.x/redis)
+
+### Eloquent ORM
+- [Conventions](https://laravel.com/docs/9.x/eloquent#eloquent-model-conventions)
+- [Relationships](https://laravel.com/docs/9.x/eloquent-relationships)
+- [Eloquent Collections](https://laravel.com/docs/9.x/eloquent-collections)
+- [Mutators / Accessors](https://laravel.com/docs/9.x/eloquent-mutators)
+- [API Resources](https://laravel.com/docs/9.x/eloquent-resources)
+- [Serialization](https://laravel.com/docs/9.x/eloquent-serialization)
+- [Scopes](https://laravel.com/docs/9.x/eloquent#query-scopes)
+
