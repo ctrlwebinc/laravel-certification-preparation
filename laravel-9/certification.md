@@ -74,3 +74,9 @@
 - [Storing Files](https://laravel.com/docs/9.x/filesystem#storing-files)
 - [Retrieving Files](https://laravel.com/docs/9.x/filesystem#retrieving-files)
 - [Custom Filesystems](https://laravel.com/docs/9.x/filesystem#custom-filesystems)
+
+### Frontend
+- [Blade Templating](https://laravel.com/docs/9.x/blade)
+- [Localization](https://laravel.com/docs/9.x/localization)
+- [Asset Compilation](https://laravel.com/docs/9.x/vite)
+- [Mix](https://laravel.com/docs/9.x/mix)
