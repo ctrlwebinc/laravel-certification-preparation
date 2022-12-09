@@ -89,3 +89,8 @@
 - [Strings](https://laravel.com/docs/9.x/helpers#strings-method-list)
 - [URLs](https://laravel.com/docs/9.x/helpers#urls-method-list)
 - [Misc](https://laravel.com/docs/9.x/helpers#miscellaneous-method-list)
+
+### Logging
+- [Configuration](https://laravel.com/docs/9.x/logging#configuration)
+- [Writing to Specific Channels](https://laravel.com/docs/9.x/logging#writing-to-specific-channels)
+- [Creating Custom Channels](https://laravel.com/docs/9.x/logging#creating-custom-channels-via-factories)
