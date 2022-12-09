@@ -82,3 +82,10 @@
 - [Vite](https://vitejs.dev/)
 - [Mix](https://laravel.com/docs/9.x/mix)
 - [Livewire](https://laravel-livewire.com/)
+
+### Helper Methods
+- [Arrays / Objects](https://laravel.com/docs/9.x/helpers#arrays-and-objects-method-list)
+- [Paths](https://laravel.com/docs/9.x/helpers#paths-method-list)
+- [Strings](https://laravel.com/docs/9.x/helpers#strings-method-list)
+- [URLs](https://laravel.com/docs/9.x/helpers#urls-method-list)
+- [Misc](https://laravel.com/docs/9.x/helpers#miscellaneous-method-list)
