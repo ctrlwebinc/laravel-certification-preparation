@@ -68,3 +68,9 @@
 - [Queued Listeners](https://laravel.com/docs/9.x/events#queued-event-listeners)
 - [Dispatching Events](https://laravel.com/docs/9.x/events#dispatching-events)
 - [Subscribing to Events](https://laravel.com/docs/9.x/events#event-subscribers)
+
+### File Storage
+- [Configuration / Drivers](https://laravel.com/docs/9.x/filesystem#configuration)
+- [Storing Files](https://laravel.com/docs/9.x/filesystem#storing-files)
+- [Retrieving Files](https://laravel.com/docs/9.x/filesystem#retrieving-files)
+- [Custom Filesystems](https://laravel.com/docs/9.x/filesystem#custom-filesystems)
