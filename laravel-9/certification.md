@@ -79,5 +79,6 @@
 - [Blade Templating](https://laravel.com/docs/9.x/blade)
 - [Localization](https://laravel.com/docs/9.x/localization)
 - [Asset Compilation](https://laravel.com/docs/9.x/vite)
+- [Vite](https://vitejs.dev/)
 - [Mix](https://laravel.com/docs/9.x/mix)
 - [Livewire](https://laravel-livewire.com/)
