@@ -63,3 +63,8 @@
 - [Serialization](https://laravel.com/docs/9.x/eloquent-serialization)
 - [Scopes](https://laravel.com/docs/9.x/eloquent#query-scopes)
 
+### Events
+- [Registering Events / Listeners](https://laravel.com/docs/9.x/events#registering-events-and-listeners)
+- [Queued Listeners](https://laravel.com/docs/9.x/events#queued-event-listeners)
+- [Dispatching Events](https://laravel.com/docs/9.x/events#dispatching-events)
+- [Subscribing to Events](https://laravel.com/docs/9.x/events#event-subscribers)
